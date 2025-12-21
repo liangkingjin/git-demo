@@ -1,0 +1,8 @@
+# 核心依赖（简化版本号，避免冲突）
+streamlit>=1.30.0
+requests>=2.20.0
+beautifulsoup4>=4.10.0
+jieba>=0.42.0
+pyecharts>=2.0.0
+streamlit-echarts>=0.3.0
+pandas>=2.0.0
